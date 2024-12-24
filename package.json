@@ -1,0 +1,21 @@
+{
+  "name": "desafio-ignite-node-modulo-01",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/server.js"
+  },
+  "keywords": [
+    "Rocketseat",
+    "Ignite",
+    "Node",
+    "Challenges"
+  ],
+  "author": "José Eduardo Trindade E Marques",
+  "license": "ISC",
+  "description": "A simple server to manage tasks (Rocketseat Ignite Challenge 2023 - Module 01)",
+  "dependencies": {
+    "csv-parse": "^5.6.0"
+  }
+}
